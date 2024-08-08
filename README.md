@@ -1,5 +1,5 @@
-# zig-qrencode
+# GeoKernel
 
----
+Geographic Information Kernel Engine.
 
-Generate QRCode with ziglang.
+GeoKernel is an open-source geographic information kernel engine that includes modules for data reading and writing, map rendering, geographic information algorithms, and more.
